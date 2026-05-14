@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "351271582468",
+    "project_id": "madhumargaa",
+    "storage_bucket": "madhumargaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351271582468:android:c469cb4401d093801b6e51",
+        "android_client_info": {
+          "package_name": "com.example.Madhumargaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7omOUd3_62e-4mzgl5Hegm93Z-Owlzww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351271582468:android:5c1ae321b1f8f4aa1b6e51",
+        "android_client_info": {
+          "package_name": "com.example.madhumargaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7omOUd3_62e-4mzgl5Hegm93Z-Owlzww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
